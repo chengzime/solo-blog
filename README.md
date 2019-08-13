@@ -1,0 +1,28 @@
+<p align="center"><img alt="程子的个人博客" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
+程子的个人博客
+</h2>
+
+<h4 align="center">想得到从未得到的东西，就要去做从未做过的事</h4>
+<p align="center"><a title="程子的个人博客" target="_blank" href="https://github.com/chengzime/solo-blog"><img src="https://img.shields.io/github/last-commit/chengzime/solo-blog.svg?style=flat-square&color=FF9900"></a>
+<a title="GitHub repo size in bytes" target="_blank" href="https://github.com/chengzime/solo-blog"><img src="https://img.shields.io/github/repo-size/chengzime/solo-blog.svg?style=flat-square"></a>
+<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.3-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/chengzime/solo-blog.svg"></a></p>
+
+### 最新
+
+* [docker 安装 nginx](http://www.chengzime.com.cn:8888/articles/2019/08/08/1565249176000.html)
+* [docker 安装 mysql 5.7](http://www.chengzime.com.cn:8888/articles/2019/08/07/1565175605000.html)
+* [Centos7 安装 JDK](http://www.chengzime.com.cn:8888/articles/2019/08/07/1565172836000.html)
+* [CentOs7 安装社区版 docker-ce](http://www.chengzime.com.cn:8888/articles/2019/08/07/1565170875000.html)
+* [IntellIJ Idea内存不足时怎么设置](http://www.chengzime.com.cn:8888/articles/2019/08/06/1565083104000.html)
+* [VirtualBox虚拟机中对CentOS7配置联网固定IP地址](http://www.chengzime.com.cn:8888/articles/2019/08/02/1564712795000.html)
+* [win10 系统中 virtualbox 虚拟机不能安装 64 位操作系统解决方案](http://www.chengzime.com.cn:8888/articles/2019/08/01/1564626395000.html)
+* [使用通用mapper时在xml自定义一对多 异常No typehandler found for property likeList](http://www.chengzime.com.cn:8888/articles/2019/07/15/1563160495000.html)
+* [一个对象被当做参数传递给一个方法,在这个方法改变这个对象的值,原对象也同时修改了,那么到底是值传递还是引用传递呢?](http://www.chengzime.com.cn:8888/articles/2019/07/08/1562575854000.html)
+* [使用java进行  AES 加密 解密](http://www.chengzime.com.cn:8888/articles/2017/08/30/1504061852000.html)
+
+
+
+---
+
+本仓库通过 [Solo](https://github.com/b3log/solo) 自动进行同步更新 ❤️ 
