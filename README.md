@@ -1,9 +1,9 @@
-<p align="center"><img alt="程子的个人博客" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
-程子的个人博客
+<p align="center"><img alt="程子的博客" src="http://www.qiniudns.chengzime.com.cn/%E5%A4%B4%E5%83%8F"></p><h2 align="center">
+程子的博客
 </h2>
 
 <h4 align="center">想得到从未得到的东西，就要去做从未做过的事</h4>
-<p align="center"><a title="程子的个人博客" target="_blank" href="https://github.com/chengzime/solo-blog"><img src="https://img.shields.io/github/last-commit/chengzime/solo-blog.svg?style=flat-square&color=FF9900"></a>
+<p align="center"><a title="程子的博客" target="_blank" href="https://github.com/chengzime/solo-blog"><img src="https://img.shields.io/github/last-commit/chengzime/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/chengzime/solo-blog"><img src="https://img.shields.io/github/repo-size/chengzime/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.3-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/chengzime/solo-blog.svg"></a></p>
