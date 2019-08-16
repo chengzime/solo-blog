@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [Nginx 配置反向代理](http://www.chengzime.com.cn:8888/articles/2019/08/15/1565864216388.html)
+* [CentOS7 开放指定端口和关闭防火墙](http://www.chengzime.com.cn:8888/articles/2019/08/15/1565852767719.html)
 * [Docker 查看容器日志各种常用命令](http://www.chengzime.com.cn:8888/articles/2019/08/13/1565693875276.html)
 * [docker 安装 nginx](http://www.chengzime.com.cn:8888/articles/2019/08/08/1565249176000.html)
 * [docker 安装 mysql 5.7](http://www.chengzime.com.cn:8888/articles/2019/08/07/1565175605000.html)
