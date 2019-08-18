@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [怎么跟小孩子聊天](https://www.chengzime.com.cn/articles/2019/08/17/1566022949151.html)
 * [我在 GitHub 上的开源项目](https://www.chengzime.com.cn/my-github-repos)
 * [Nginx 配置反向代理](https://www.chengzime.com.cn/articles/2019/08/15/1565864216388.html)
 * [CentOS7 开放指定端口和关闭防火墙](https://www.chengzime.com.cn/articles/2019/08/15/1565852767719.html)
