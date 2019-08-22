@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Vultr vps 搭建属于自己的 ss 代理](https://www.chengzime.com.cn/articles/2019/08/22/1566464030235.html)
 * [Docker 安装 Jenkins](https://www.chengzime.com.cn/articles/2019/08/19/1566205996451.html)
 * [修改 Docker 的镜像源地址](https://www.chengzime.com.cn/articles/2019/08/19/1566196113907.html)
 * [怎么跟小孩子聊天](https://www.chengzime.com.cn/articles/2019/08/17/1566022949151.html)
