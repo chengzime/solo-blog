@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [JAVA 获取一个 区间 的随机整数](https://www.chengzime.com.cn/articles/2019/09/11/1568199355949.html)
 * [开源规则引擎 Drools 学习笔记 之 -- 1 cannot be cast to org.drools.compiler.kie.builder.impl.InternalKieModule](https://www.chengzime.com.cn/articles/2019/09/11/1568195807017.html)
 * [Vultr vps 搭建属于自己的 ss 代理](https://www.chengzime.com.cn/articles/2019/08/22/1566464030235.html)
 * [Docker 安装 Jenkins](https://www.chengzime.com.cn/articles/2019/08/19/1566205996451.html)
