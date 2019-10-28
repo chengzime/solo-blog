@@ -10,6 +10,10 @@
 
 ### 最新
 
+* [the default discovery settings are unsuitable for production use; at least one of [discovery.seed_hosts, discovery.seed_providers, cluster.initial_master_nodes] must be configured](https://www.chengzime.com.cn/articles/2019/10/28/1572256454510.html)
+* [max virtual memory areas vm.max_map_count [65530] is too low, increase to at least [262144]](https://www.chengzime.com.cn/articles/2019/10/28/1572256100073.html)
+* [max file descriptors [4096] for elasticsearch process is too low, increase to at least [65535]](https://www.chengzime.com.cn/articles/2019/10/28/1572255315321.html)
+* [Linux 安装 elasticsearch](https://www.chengzime.com.cn/articles/2019/10/28/1572255044387.html)
 * [JAVA 获取一个 区间 的随机整数](https://www.chengzime.com.cn/articles/2019/09/11/1568199355949.html)
 * [开源规则引擎 Drools 学习笔记 之 -- 1 cannot be cast to org.drools.compiler.kie.builder.impl.InternalKieModule](https://www.chengzime.com.cn/articles/2019/09/11/1568195807017.html)
 * [Vultr vps 搭建属于自己的 ss 代理](https://www.chengzime.com.cn/articles/2019/08/22/1566464030235.html)
@@ -26,14 +30,14 @@
 * [Centos7 安装 JDK](https://www.chengzime.com.cn/articles/2019/08/07/1565172836000.html)
 * [CentOs7 安装社区版 docker-ce](https://www.chengzime.com.cn/articles/2019/08/07/1565170875000.html)
 * [IntellIJ Idea内存不足时怎么设置](https://www.chengzime.com.cn/articles/2019/08/06/1565083104000.html)
-* [VirtualBox 虚拟机中对 CentOS7 配置联网固定 IP 地址](https://www.chengzime.com.cn/articles/2019/08/02/1564712795000.html)
-* [win10 系统中 virtualbox 虚拟机不能安装 64 位操作系统解决方案](https://www.chengzime.com.cn/articles/2019/08/01/1564626395000.html)
-* [使用通用mapper时在xml自定义一对多 异常No typehandler found for property likeList](https://www.chengzime.com.cn/articles/2019/07/15/1563160495000.html)
-* [一个对象被当做参数传递给一个方法,在这个方法改变这个对象的值,原对象也同时修改了,那么到底是值传递还是引用传递呢?](https://www.chengzime.com.cn/articles/2019/07/08/1562575854000.html)
 
 ### 热门
 
 * [使用java进行  AES 加密 解密](https://www.chengzime.com.cn/articles/2017/08/30/1504061852000.html)
+* [VirtualBox 虚拟机中对 CentOS7 配置联网固定 IP 地址](https://www.chengzime.com.cn/articles/2019/08/02/1564712795000.html)
+* [一个对象被当做参数传递给一个方法,在这个方法改变这个对象的值,原对象也同时修改了,那么到底是值传递还是引用传递呢?](https://www.chengzime.com.cn/articles/2019/07/08/1562575854000.html)
+* [win10 系统中 virtualbox 虚拟机不能安装 64 位操作系统解决方案](https://www.chengzime.com.cn/articles/2019/08/01/1564626395000.html)
+* [使用通用mapper时在xml自定义一对多 异常No typehandler found for property likeList](https://www.chengzime.com.cn/articles/2019/07/15/1563160495000.html)
 
 
 
