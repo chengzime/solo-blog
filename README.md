@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Linux 用户组合用户](https://www.chengzime.com.cn/articles/2019/10/29/1572333882648.html)
 * [the default discovery settings are unsuitable for production use; at least one of [discovery.seed_hosts, discovery.seed_providers, cluster.initial_master_nodes] must be configured](https://www.chengzime.com.cn/articles/2019/10/28/1572256454510.html)
 * [max virtual memory areas vm.max_map_count [65530] is too low, increase to at least [262144]](https://www.chengzime.com.cn/articles/2019/10/28/1572256100073.html)
 * [max file descriptors [4096] for elasticsearch process is too low, increase to at least [65535]](https://www.chengzime.com.cn/articles/2019/10/28/1572255315321.html)
@@ -29,7 +30,6 @@
 * [Docker 安装 Mysql 5.7](https://www.chengzime.com.cn/articles/2019/08/07/1565175605000.html)
 * [Centos7 安装 JDK](https://www.chengzime.com.cn/articles/2019/08/07/1565172836000.html)
 * [CentOs7 安装社区版 docker-ce](https://www.chengzime.com.cn/articles/2019/08/07/1565170875000.html)
-* [IntellIJ Idea内存不足时怎么设置](https://www.chengzime.com.cn/articles/2019/08/06/1565083104000.html)
 
 ### 热门
 
@@ -38,6 +38,7 @@
 * [一个对象被当做参数传递给一个方法,在这个方法改变这个对象的值,原对象也同时修改了,那么到底是值传递还是引用传递呢?](https://www.chengzime.com.cn/articles/2019/07/08/1562575854000.html)
 * [win10 系统中 virtualbox 虚拟机不能安装 64 位操作系统解决方案](https://www.chengzime.com.cn/articles/2019/08/01/1564626395000.html)
 * [使用通用mapper时在xml自定义一对多 异常No typehandler found for property likeList](https://www.chengzime.com.cn/articles/2019/07/15/1563160495000.html)
+* [IntellIJ Idea内存不足时怎么设置](https://www.chengzime.com.cn/articles/2019/08/06/1565083104000.html)
 
 
 
