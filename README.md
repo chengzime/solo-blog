@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [sky-walking 配置与安装](https://www.chengzime.com.cn/articles/2019/10/29/1572341499170.html)
 * [Linux 用户组合用户](https://www.chengzime.com.cn/articles/2019/10/29/1572333882648.html)
 * [the default discovery settings are unsuitable for production use; at least one of [discovery.seed_hosts, discovery.seed_providers, cluster.initial_master_nodes] must be configured](https://www.chengzime.com.cn/articles/2019/10/28/1572256454510.html)
 * [max virtual memory areas vm.max_map_count [65530] is too low, increase to at least [262144]](https://www.chengzime.com.cn/articles/2019/10/28/1572256100073.html)
@@ -29,11 +30,11 @@
 * [Docker 安装 Nginx](https://www.chengzime.com.cn/articles/2019/08/08/1565249176000.html)
 * [Docker 安装 Mysql 5.7](https://www.chengzime.com.cn/articles/2019/08/07/1565175605000.html)
 * [Centos7 安装 JDK](https://www.chengzime.com.cn/articles/2019/08/07/1565172836000.html)
-* [CentOs7 安装社区版 docker-ce](https://www.chengzime.com.cn/articles/2019/08/07/1565170875000.html)
 
 ### 热门
 
 * [使用java进行  AES 加密 解密](https://www.chengzime.com.cn/articles/2017/08/30/1504061852000.html)
+* [CentOs7 安装社区版 docker-ce](https://www.chengzime.com.cn/articles/2019/08/07/1565170875000.html)
 * [VirtualBox 虚拟机中对 CentOS7 配置联网固定 IP 地址](https://www.chengzime.com.cn/articles/2019/08/02/1564712795000.html)
 * [一个对象被当做参数传递给一个方法,在这个方法改变这个对象的值,原对象也同时修改了,那么到底是值传递还是引用传递呢?](https://www.chengzime.com.cn/articles/2019/07/08/1562575854000.html)
 * [win10 系统中 virtualbox 虚拟机不能安装 64 位操作系统解决方案](https://www.chengzime.com.cn/articles/2019/08/01/1564626395000.html)
